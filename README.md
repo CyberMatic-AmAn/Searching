@@ -38,7 +38,7 @@ This repository contains **C++ and Python implementations** of various **searchi
 │── 📜 jump_search.py
 │── 📜 exponential_search.py
 │── 📜 hash_search.py
-│── 📜 README.md  👈 (This file)
+│── 📜 README.md  
 ```
 
 ## ⏳ Time Complexity Comparison  
